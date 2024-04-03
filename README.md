@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Shahabeddin Ahmadi</h1>
 <h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahab89&label=Profile%20views&color=0e75b6&style=flat" alt="shahab89" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahab89" alt="shahab89" /></a> </p>
 
 - 🔭 I’m currently working on [cardano-crystal-ball](https://github.com/lifelonglearner94/cardano_crystal_ball.git)
 
@@ -25,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab89&show_icons=true&locale=en&layout=compact" alt="shahab89" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahab89&show_icons=true&locale=en" alt="shahab89" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahab89&" alt="shahab89" /></p>
