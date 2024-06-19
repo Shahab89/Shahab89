@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ahmadi.shahabeddin@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1D-dp5FuT3n0OQgCHlsJZNeR_Z6R6yWO2/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dr-ing-shahabeddin-ahmadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dr-ing-shahabeddin-ahmadi/"(https://www.linkedin.com/in/dr-ing-shahabeddin-ahmadi/)" height="30" width="40" /></a>
